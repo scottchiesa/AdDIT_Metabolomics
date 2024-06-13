@@ -1,6 +1,6 @@
 # Effect of statins and ACE inhibitors on the adolescent metabolome in type 1 diabetes: the Adolescent type 1 Diabetes cardio-renal Intervention Trial (AdDIT)
 
-_Beatrice Prampolini, Anthony Giton,  Sofia Frassineti,  Paul Benitez-Aguirre,  Fergus J Cameron,  Maria Craig,  Jennifer J Couper,  Elizabeth A Davis,  R Neil Dalton,  Denis Daneman,  Kim C Donaghue,  Tim W Jones,  Farid H Mahmud,  Sally M Marshall,  H Andrew Neil,  John E Deanfield, M Loredana Marcovecchio*, and Scott T Chiesa* on behalf of the Adolescent Type 1 Diabetes cardio-renal Intervention Trial (AdDIT) Study Group_
+_Beatrice Prampolini, Anthony Giton,  Sofia Frassineti,  Paul Benitez-Aguirre,  Fergus J Cameron,  Maria Craig,  Jennifer J Couper,  Elizabeth A Davis,  R Neil Dalton,  Denis Daneman, John E Deanfield,  Kim C Donaghue,  Tim W Jones,  Farid H Mahmud,  Sally M Marshall,  H Andrew Neil, M Loredana Marcovecchio*, and Scott T Chiesa* on behalf of the Adolescent Type 1 Diabetes cardio-renal Intervention Trial (AdDIT) Study Group_
 
 Stata code for manuscript investigating evolution of metabolomic profiles across adolescence in patients with type 1 diabetes and the impact that a four year RCT of statins and ACE inhibitors have on these outcomes. Data comes from the Adolescent type 1 Diabetes cardio-renal Intervention Trial (AdDIT), previously reported at https://www.nejm.org/doi/full/10.1056/NEJMoa1703518. Manuscript being finalised for submission and update will be posted here once accepted somewhere.
 
