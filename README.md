@@ -4,7 +4,7 @@ _Beatrice Prampolini, Anthony Giton,  Sofia Frassineti,  Paul Benitez-Aguirre,  
 
 Stata code for manuscript investigating evolution of metabolomic profiles across adolescence in patients with type 1 diabetes and the impact that a four year RCT of statins and ACE inhibitors have on these outcomes. Data comes from the Adolescent type 1 Diabetes cardio-renal Intervention Trial (AdDIT), previously reported at https://www.nejm.org/doi/full/10.1056/NEJMoa1703518. 
 
-Manuscript under review in Scientific Reports and update will be posted here once accepted somewhere.
+Manuscript accepted by Scientific Reports and DOI will be posted here once published.
 
 ### ABSTRACT
 
